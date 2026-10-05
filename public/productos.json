@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Remera Classic",
+    "precio": 12000,
+    "descripcion": "Remera de algodón, talle único.",
+    "imagen": 
+  },
+  {
+    "id": 2,
+    "nombre": "Buzo Oversize",
+    "precio": 25000,
+    "descripcion": "Buzo holgado frizado con capucha.",
+    "imagen": 
+  },
+  {
+    "id": 3,
+    "nombre": "Pantalón Cargo",
+    "precio": 32000,
+    "descripcion": "Pantalón cargo ripstop con múltiples bolsillos.",
+    "imagen": 
+  }
+]
