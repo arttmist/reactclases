@@ -8,7 +8,7 @@ function App() {
     <Layout>
       <section style={{ padding: '2rem', textAlign: 'center' }}>
         <h2>Seccion principal</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore </p> magna aliqua.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore </p>
       </section>
     </Layout>
   );
